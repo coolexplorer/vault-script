@@ -1,6 +1,6 @@
 art==4.9
 pick==0.6.7
-pyperclip==1.8.0
+pyperclip==1.8.2
 hvac==0.10.3
 paramiko==2.7.1
 scp==0.13.2
